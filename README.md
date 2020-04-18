@@ -1,5 +1,3 @@
-The individuals of dosdosdynamicosdesperados are pleased to present
-
 <br />
 <p>
   <h3 align="center">Wookiebook</h3>
@@ -7,7 +5,7 @@ The individuals of dosdosdynamicosdesperados are pleased to present
   <p align="center">
     A place for the more hairy individuals of Kashyyyk to share
     <br />
-    <a href="https://github.com/cpcwood/acebook-dosdosdesperadosdynamicos"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Walker-TW/wookiebook"><strong>Explore the docs »</strong></a>
   </p>
 </p>
 
@@ -39,13 +37,5 @@ Try The Current Build on Heroku - https://dosdosdesperadosdynamicos.herokuapp.co
 
 How it was made - https://medium.com/@TWWalker/dosdosdesperadosdynamicos-acebook-not-a-copy-of-facebook-honest-f9e53b543aee
 
-Github Repo - https://github.com/cpcwood/acebook-dosdosdesperadosdynamicos
+Github Repo - https://github.com/Walker-TW/wookiebook
 
-## Contact 
-
-#### Team Members 
-
-* Tom W - https://github.com/Walker-TW
-* Chris - https://github.com/cpcwood
-* Tom R - https://github.com/ratcliffetj
-* Imraan A - https://github.com/Immers23
