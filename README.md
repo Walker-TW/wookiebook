@@ -1,4 +1,5 @@
 <div align="center">
+<p>
 
 [![MIT License][license-shield]][license-url]
 ![Ruby][Ruby]
@@ -11,15 +12,17 @@
 ![Capybara][Capybara]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-  <h1 align="center">Wookiebook</h3>
+  <h1 align="center">Wookiebook</h1>
 
   <p align="center">
     A place for the more hairy individuals of Kashyyyk to share
-    <br />
-    <a href="https://github.com/Walker-TW/wookiebook"><strong>Explore the docs »</strong></a>
+
+  [*Getting Started*](#getting-started) | [*Contact*](#contact) | [*License*](#license) | [*Additional Resources*](#additional-resources) 
+  
   </p>
 </p>
 </div>
+
 
 
 ## Getting Started
