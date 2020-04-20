@@ -23,22 +23,40 @@
 </p>
 </div>
 
-## Built With
 
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-* [Rails](https://rubyonrails.org/)
+## Getting Started
 
-## Quickstart
+To get a local copy up and running follow these steps.
 
 First, clone this repository. Then:
-```bash
-> bundle install
-> bin/rails db:setup
 
-> bundle exec rspec # Run the tests to ensure it works
-> bin/rails server # Start the server at localhost:3000
+Install the dependencies.
+```sh
+> bundle install
 ```
+Create the databases,
+
+```sh
+> bin/rails db:setup
+```
+
+Run the tests to ensure that everything is working
+```sh
+> bundle exec rspec
+```
+
+Start the server (which defaults to localhost:3000)
+
+```sh
+> bin/rails server
+```
+
+Enjoy!
+
+## Contact 
+
+Tom Walker - thomas.w.walker@live.co.uk
+
 
 ## License
 
