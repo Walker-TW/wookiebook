@@ -11,9 +11,7 @@
 ![Capybara][Capybara]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-<br />
-<p>
-  <h3 align="center">Wookiebook</h3>
+  <h1 align="center">Wookiebook</h3>
 
   <p align="center">
     A place for the more hairy individuals of Kashyyyk to share
