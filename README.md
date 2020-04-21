@@ -15,10 +15,10 @@
   <h1 align="center">Wookiebook</h1>
 
   <p align="center">
-    A place for the more hairy individuals of Kashyyyk to share
+    A place for the more hairy individuals of Kashyyyk to share ... everything
 
   [*Getting Started*](#getting-started) | [*Contact*](#contact) | [*License*](#license) | [*Additional Resources*](#additional-resources) 
-  
+
   </p>
 </p>
 </div>
