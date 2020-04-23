@@ -25,7 +25,7 @@
 
 ## About The Project
 
-![product-screenshot](/screenshots/Homepage.png?raw=true)
+![homepage-screenshot](/screenshots/HomePage.png?raw=true)
 
 
 A ruby on rails project that allows a user to sign-up, choose a planet and a profile picture, and then converse with other users. Either through the integrated chat app or by posting on another wookies' walls.
