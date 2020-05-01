@@ -23,7 +23,7 @@
 </p>
 </div>
 
-## About The Project
+## About The Project 
 
 ![homepage-screenshot](/screenshots/HomePage.png?raw=true)
 
