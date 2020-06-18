@@ -90,4 +90,4 @@ Github Repo - https://github.com/Walker-TW/wookiebook
 [RubyOnRails]: https://img.shields.io/badge/Ruby_On_Rails-informational.svg
 [Bootstrap]: https://img.shields.io/badge/Bootstrap-blueviolet.svg
 [Rspec]: https://img.shields.io/badge/Rspec-red.svg
-[Capybara]: https://img.shields.io/badge/Capybara-informational.svg
+[Capybara]: https://img.shields.io/badge/Capybara-informational.svg 
